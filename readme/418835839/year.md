@@ -1,7 +1,7 @@
 ## [🔙 jameshmwangi-views-counter](https://github.com/jameshmwangi/jameshmwangi-views-counter)
 
-### :octocat: [jameshmwangi](https://github.com/jameshmwangi/jameshmwangi)
-![Image of jameshmwangi-views-counter](https://github.com/jameshmwangi/jameshmwangi-views-counter/blob/master/graph/418817437/large/year.png)
+### :octocat: [jameshmwangi-views-counter](https://github.com/jameshmwangi/jameshmwangi-views-counter)
+![Image of jameshmwangi-views-counter](https://github.com/jameshmwangi/jameshmwangi-views-counter/blob/master/graph/418835839/large/year.png)
 
 <details>
 	<summary>Click to expand table</summary>
@@ -26,7 +26,7 @@
 			<code>2</code>
 		</td>
 		<td>
-			<code>92</code>
+			<code>28</code>
 		</td>
 	</tr>
 	<tr>
@@ -168,14 +168,14 @@
 
 ## ✂️Copy and 📋 Paste
 ### SVG Badge
-[![Image of jameshmwangi-views-counter](https://github.com/jameshmwangi/jameshmwangi-views-counter/blob/master/svg/418817437/badge.svg)](https://github.com/jameshmwangi/jameshmwangi-views-counter/blob/master/readme/418817437/week.md)
+[![Image of jameshmwangi-views-counter](https://github.com/jameshmwangi/jameshmwangi-views-counter/blob/master/svg/418835839/badge.svg)](https://github.com/jameshmwangi/jameshmwangi-views-counter/blob/master/readme/418835839/week.md)
 ```readme
-[![Image of jameshmwangi-views-counter](https://github.com/jameshmwangi/jameshmwangi-views-counter/blob/master/svg/418817437/badge.svg)](https://github.com/jameshmwangi/jameshmwangi-views-counter/blob/master/readme/418817437/week.md)
+[![Image of jameshmwangi-views-counter](https://github.com/jameshmwangi/jameshmwangi-views-counter/blob/master/svg/418835839/badge.svg)](https://github.com/jameshmwangi/jameshmwangi-views-counter/blob/master/readme/418835839/week.md)
 ```
 ### Header
-# jameshmwangi [<img alt="Image of jameshmwangi-views-counter" src="https://github.com/jameshmwangi/jameshmwangi-views-counter/blob/master/graph/418817437/small/year.png" height="20">](https://github.com/jameshmwangi/jameshmwangi-views-counter/blob/master/readme/418817437/year.md)
+# jameshmwangi-views-counter [<img alt="Image of jameshmwangi-views-counter" src="https://github.com/jameshmwangi/jameshmwangi-views-counter/blob/master/graph/418835839/small/year.png" height="20">](https://github.com/jameshmwangi/jameshmwangi-views-counter/blob/master/readme/418835839/year.md)
 ```readme
-# jameshmwangi [<img alt="Image of jameshmwangi-views-counter" src="https://github.com/jameshmwangi/jameshmwangi-views-counter/blob/master/graph/418817437/small/year.png" height="20">](https://github.com/jameshmwangi/jameshmwangi-views-counter/blob/master/readme/418817437/year.md)
+# jameshmwangi-views-counter [<img alt="Image of jameshmwangi-views-counter" src="https://github.com/jameshmwangi/jameshmwangi-views-counter/blob/master/graph/418835839/small/year.png" height="20">](https://github.com/jameshmwangi/jameshmwangi-views-counter/blob/master/readme/418835839/year.md)
 ```
 [**Set up GitHub Profile Views Counter for your repositories**](https://github.com/gayanvoice/github-profile-views-counter)
 ## ⛔ DO NOT
