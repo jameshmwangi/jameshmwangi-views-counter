@@ -35,25 +35,9 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			<img alt="Response time graph" src="https://github.com/jameshmwangi/jameshmwangi-views-counter/raw/master/graph/418817437/small/year.png" height="20"> 142
 		</td>
 	</tr>
-	<tr>
-		<td>
-			<a href="https://github.com/jameshmwangi/jameshmwangi-views-counter/tree/master/readme/418835839/year.md">
-				jameshmwangi-views-counter
-			</a>
-		</td>
-		<td>
-			2022/2/7 12:40 AM UTC
-		</td>
-		<td>
-			6
-		</td>
-		<td>
-			<img alt="Response time graph" src="https://github.com/jameshmwangi/jameshmwangi-views-counter/raw/master/graph/418835839/small/year.png" height="20"> 59
-		</td>
-	</tr>
 </table>
 
-<small><i>Last updated on 2022/2/9 6:13 AM UTC</i></small>
+<small><i>Last updated on 2022/2/9 12:17 PM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge
